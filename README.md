@@ -29,7 +29,7 @@ This project delivered visualization solutions across three industry-standard to
 2. Tableau Dashboard: You can view a static preview of the final dashboard here:
 * **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/tableau_dashboard.png)**
 3. Excel Dashboard: You can view a static preview of the final dashboard here:
-* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/excel_dashboard.png)**
+* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/Excel%20Dashboard.png)**
 ## 💡 Conclusion and Key Insights
 This project delivered actionable road safety intelligence through validated, multi-platform dashboards.
 1. Critical Risk Segments: Analysis identified specific factors demanding urgent attention, such as the highest volume of casualties occurring on Single Carriageway roads and involving a specific Vehicle Type (as determined by the analysis).
