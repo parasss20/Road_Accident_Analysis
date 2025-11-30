@@ -25,9 +25,9 @@ The dashboards were designed to provide both executive summaries and detailed an
 ## 🔗 Dashboard Link & Preview
 This project delivered visualization solutions across three industry-standard tools.
 1. Power BI Dashboard: You can view a static preview of the final dashboard here:
-* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/power_bi_dashboard.png)**
+* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/PowerBi%20Dashboard.png)**
 2. Tableau Dashboard: You can view a static preview of the final dashboard here:
-* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/tableau_dashboard.png)**
+* **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/Tableau%20Dashboard.png)**
 3. Excel Dashboard: You can view a static preview of the final dashboard here:
 * **[Dashboard Preview Image](https://github.com/parasss20/Road_Accident_Analysis/blob/main/Dashboard/Excel%20Dashboard.png)**
 ## 💡 Conclusion and Key Insights
